@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Universe_Wars.FastBulletMove" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>bulletbehaviour\FastBulletMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.SearchBulletMove" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAABAAAAIgAAABAAAAAAAAI=</HashCode>
+      <FileName>bulletbehaviour\SearchBulletMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.StandardBombMove" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>bulletbehaviour\StandardBombMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.StandardBulletMove" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>bulletbehaviour\StandardBulletMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.Bullet">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAIAAAACAAAgAAAAAAAEAAAIA=</HashCode>
+      <FileName>Bullets\Bullet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Universe_Wars.BulletGuidedMissle">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bullets\BulletGuidedMissle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.BulletLaser">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bullets\BulletLaser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.BulletMissle">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bullets\BulletMissle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.BulletStandard">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bullets\BulletStandard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.EnemyBomb">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAIAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bullets\EnemyBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.ContentManager" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Universe_Wars.ContentManager.TextureFiles" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ContentManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Universe_Wars.ContentManager.FontFiles" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ContentManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ContentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.Chure">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAgAAIAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>enemys\Chure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.Enemy">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAJAAAACAAAgAAAAAAAEBAAYA=</HashCode>
+      <FileName>enemys\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Universe_Wars.Sinode">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>enemys\Sinode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.Thege">
+    <Position X="5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>enemys\Thege.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.FlyChure" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAQI=</HashCode>
+      <FileName>flybehaviour\FlyChure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.FlySinode" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAQI=</HashCode>
+      <FileName>flybehaviour\FlySinode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.FlyThege" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAQI=</HashCode>
+      <FileName>flybehaviour\FlyThege.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.Game1">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEEAAAAAAAwAAAAAAAAAAAAAAIAgUAAQAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.GameEngine" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSJAAABAIIEIAAQBAEIBAAAAENRAAQQDAIAgEAUAQQ=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.Program" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.BombStandard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAw=</HashCode>
+      <FileName>shootbehaviour\BombStandard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.GuidedMissleGunDecorator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>shootbehaviour\GuidedMissleGunDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.LaserGunDecorator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>shootbehaviour\LaserGunDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.MissleGunDecorator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>shootbehaviour\MissleGunDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.ShootStandard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAIAEAAAAAAAAAAAw=</HashCode>
+      <FileName>shootbehaviour\ShootStandard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Universe_Wars.Spaceship" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAIAAAIiAAIgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Spaceship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Universe_Wars.Upgrade" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAIAAAACAAIgAAAAAAAAAAAIQ=</HashCode>
+      <FileName>Upgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Universe_Wars.IBulletBehaviour" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bulletbehaviour\IBulletBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Universe_Wars.IFlyBehaviour" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>flybehaviour\IFlyBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Universe_Wars.IShootBehaviour" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>shootbehaviour\IShootBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

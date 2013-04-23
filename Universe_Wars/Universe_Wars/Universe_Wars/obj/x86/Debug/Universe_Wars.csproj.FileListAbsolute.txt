@@ -1,0 +1,36 @@
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Universe_Wars.exe
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Universe_Wars.pdb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.csprojResolveAssemblyReference.cache
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.exe
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.pdb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\chure.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\thege.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\sinode.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\laser.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\missle.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\guidedMissle.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bomb.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\Font.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\upgrade.xnb
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bigFont.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\chure.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\thege.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\sinode.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\laser.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\missle.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\guidedMissle.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bomb.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\upgrade.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\Font.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Content\bigFont.xnb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Universe_Wars.exe
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\bin\x86\Debug\Universe_Wars.pdb
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.csprojResolveAssemblyReference.cache
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.exe
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_Wars\obj\x86\Debug\Universe_Wars.pdb

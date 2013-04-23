@@ -1,0 +1,2 @@
+C:\Users\Martijn\Documents\Visual Studio 2010\Projects\imp\Universe_Wars\Universe_Wars\Universe_WarsContent\obj\x86\Debug\Universe_WarsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Martijn\Desktop\Universe_wars_martijn_schipper_0847012\Universe_Wars\Universe_Wars\Universe_WarsContent\obj\x86\Debug\Universe_WarsContent.contentprojResolveAssemblyReference.cache
